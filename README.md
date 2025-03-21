@@ -3,15 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exploring Movie Recommendation Systems</title>
+    <title align="center">Exploring Movie Recommendation Systems</title>
 </head>
 <body>
-    <div style="text-align: center;">
-        <img src="assets/icon.png" alt="Icon Image" style="max-width: 200px; margin-bottom: 20px;">
+    <div align="center">
+        <img src="assets/icon.png" alt="Icon Image" width="200">
         <h1>Exploring Movie Recommendation Systems</h1>
         <h3>Singapore Institute of Technology</h3>
         <h4>March 21, 2025</h4>
     </div>
+
 </body>
 </html>
 
