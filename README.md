@@ -7,7 +7,7 @@
 </head>
 <body>
     <div style="text-align: center;">
-        <img src="icon.png" alt="Icon Image" style="max-width: 200px; margin-bottom: 20px;">
+        <img src="assets/icon.png" alt="Icon Image" style="max-width: 200px; margin-bottom: 20px;">
         <h1>Exploring Movie Recommendation Systems</h1>
         <h3>Singapore Institute of Technology</h3>
         <h4>March 21, 2025</h4>
