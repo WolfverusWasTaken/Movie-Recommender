@@ -60,17 +60,11 @@ pip install -r requirements.txt
 
 `class_benchmark.ipynb` integrates collaborative and content-based techniques, potentially using ensemble methods or deep learning. Hyperparameter tuning and cross-validation ensure optimal performance.
 
-## Results
-
-_**A more indepth analysis is covered inside the respective ipynb._
-
 ## Conclusion
 
 This project showcases the design and implementation of movie recommendation systems, highlighting the strengths of item-item and hybrid methodologies. Through rigorous analysis and experimentation, we provide a foundation for further advancements in personalized content delivery.
 
 ## References:
-
-
 Banik, R. (2021). The movies dataset. Kaggle. https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 Ferretti, J. (2021). Exploring the IMDb movies dataset. Kaggle. https://www.kaggle.com/code/jacopoferretti/exploring-the-imdb-movies-dataset/notebook
@@ -79,5 +73,6 @@ Omar, E. Y. (2021). Metadata-based recommender system. Kaggle. https://www.kaggl
 
 Poraiyar, P. (2021). IMDB movies: All types of recommender system. Kaggle. https://www.kaggle.com/code/padmanabhanporaiyar/imdb-movies-all-types-of-recommender-system
 
+Zhao, T. (2024). Performance comparison and analysis of SVD and ALS in recommendation system. Applied and Computational Engineering, 49(1), 142-148. https://doi.org/10.54254/2755-2721/49/20241080
 
-
+Priyati, A., Laksito, A. D., & Sismoro, H. (2022). The comparison study of matrix factorization on collaborative filtering recommender system. In Proceedings of the 2022 5th International Conference on Information and Communications Technology (ICOIACT) (pp. 177-182). IEEE. https://doi.org/10.1109/ICOIACT55506.2022.9972018
