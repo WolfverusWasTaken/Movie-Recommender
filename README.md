@@ -54,11 +54,11 @@ pip install -r requirements.txt
 
 #### Item-Item Model
 
-`final(2).ipynb` focuses on collaborative filtering by constructing an item similarity matrix. The model leverages user-movie interaction data to generate recommendations, optimized for scalability and accuracy.
+`Model_1.ipynb` focuses on collaborative filtering by constructing an item similarity matrix. The model leverages user-movie interaction data to generate recommendations, optimized for scalability and accuracy.
 
 #### Hybrid Model
 
-`class_benchmark.ipynb` integrates collaborative and content-based techniques, potentially using ensemble methods or deep learning. Hyperparameter tuning and cross-validation ensure optimal performance.
+`Model_2.ipynb` integrates collaborative and content-based techniques, potentially using ensemble methods or deep learning. Hyperparameter tuning and cross-validation ensure optimal performance.
 
 ## Conclusion
 
